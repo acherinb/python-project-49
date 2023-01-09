@@ -14,8 +14,8 @@ def start(game):
         user_answer = string("Your answer: ")
         if user_answer != correct_answer:
             print(f"'{user_answer}' is wrong answer ;(. "
-                f"Correct answer was '{correct_answer}'."
-                f"\nLet's try again, {name}!")
+                  f"Correct answer was '{correct_answer}'."
+                  f"\nLet's try again, {name}!")
             break
         print('Correct!')
     else:
