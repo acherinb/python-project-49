@@ -20,6 +20,6 @@ Use following commands for installing:
 
 ### asciinema
 
-#### brain-even [![asciicast](https://asciinema.org/a/DvkZpuI0YWGBQqZUG4VVTAXku)
+#### brain-even [![asciicast](https://asciinema.org/a/DvkZpuI0YWGBQqZUG4VVTAXku.png)](https://asciinema.org/a/DvkZpuI0YWGBQqZUG4VVTAXku)
 
-#### brain-calc [![asciicast](https://asciinema.org/a/JHLp9bmsti1t0K5e2Mx1NBUA2)
+#### brain-calc [![asciicast](https://asciinema.org/a/JHLp9bmsti1t0K5e2Mx1NBUA2.png)](https://asciinema.org/a/JHLp9bmsti1t0K5e2Mx1NBUA2)
