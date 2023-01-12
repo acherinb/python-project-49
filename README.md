@@ -27,3 +27,5 @@ Use following commands for installing:
 ### brain-gcd [![asciicast](https://asciinema.org/a/dEJfFdyxCRDHt6FwLt9P0CL1K.png)](https://asciinema.org/a/dEJfFdyxCRDHt6FwLt9P0CL1K)
 
 ### brain-progression [![asciicast](https://asciinema.org/a/0YQWXsDjZSinG6mDAsY9O7ZkG.png)](https://asciinema.org/a/0YQWXsDjZSinG6mDAsY9O7ZkG)
+
+### brain-prime [![asciicast](https://asciinema.org/a/Fw5hdaWFUrJBAFg1dmA0dwXjr.png)](https://asciinema.org/a/Fw5hdaWFUrJBAFg1dmA0dwXjr)
